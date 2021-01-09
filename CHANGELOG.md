@@ -1,9 +1,9 @@
-# Change Log
+# Changelog
 
-All notable changes to the "rs-theme" extension will be documented in this file.
+## 1.1.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Add screenshots to the README
 
-## [Unreleased]
+## 1.0.0
 
-- Initial release
+- Initial release: tuned xcode-default-theme
