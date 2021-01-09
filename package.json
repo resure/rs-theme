@@ -1,0 +1,27 @@
+{
+  "name": "rs-theme",
+  "displayName": "RS Theme",
+  "description": "Simple themes based on Xcode colors",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "resure",
+  "contributes": {
+    "themes": [
+      {
+        "label": "RS Light",
+        "uiTheme": "vs",
+        "path": "./themes/rs-light.json"
+      },
+      {
+        "label": "RS Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rs-dark.json"
+      }
+    ]
+  }
+}
